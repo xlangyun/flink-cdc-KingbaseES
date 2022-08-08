@@ -1,0 +1,8 @@
+org\apache\flink\connector\jdbc\dialect\OracleDialect.class
+org\apache\flink\connector\jdbc\dialect\SQLServerDialect.class
+org\apache\flink\connector\jdbc\internal\converter\OracleRowConverter.class
+org\apache\flink\connector\jdbc\dialect\ClickHouseDialect.class
+org\apache\flink\connector\jdbc\internal\converter\ClickHouseRowConverter.class
+org\apache\flink\connector\jdbc\internal\converter\SQLServerRowConverter.class
+org\apache\flink\connector\jdbc\dialect\JdbcDialects.class
+org\apache\flink\connector\jdbc\internal\converter\OracleRowConverter$1.class

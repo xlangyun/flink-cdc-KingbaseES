@@ -1,0 +1,2 @@
+org\apache\doris\flink\serialization\RowBatch.class
+org\apache\doris\flink\serialization\RowBatch$Row.class

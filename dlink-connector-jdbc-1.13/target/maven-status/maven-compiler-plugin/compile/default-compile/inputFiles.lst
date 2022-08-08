@@ -1,0 +1,7 @@
+F:\project\dlink-0.6.6\dlink-0.6.6\dlink-connectors\dlink-connector-jdbc-1.13\src\main\java\org\apache\flink\connector\jdbc\dialect\OracleDialect.java
+F:\project\dlink-0.6.6\dlink-0.6.6\dlink-connectors\dlink-connector-jdbc-1.13\src\main\java\org\apache\flink\connector\jdbc\internal\converter\OracleRowConverter.java
+F:\project\dlink-0.6.6\dlink-0.6.6\dlink-connectors\dlink-connector-jdbc-1.13\src\main\java\org\apache\flink\connector\jdbc\dialect\ClickHouseDialect.java
+F:\project\dlink-0.6.6\dlink-0.6.6\dlink-connectors\dlink-connector-jdbc-1.13\src\main\java\org\apache\flink\connector\jdbc\internal\converter\SQLServerRowConverter.java
+F:\project\dlink-0.6.6\dlink-0.6.6\dlink-connectors\dlink-connector-jdbc-1.13\src\main\java\org\apache\flink\connector\jdbc\dialect\JdbcDialects.java
+F:\project\dlink-0.6.6\dlink-0.6.6\dlink-connectors\dlink-connector-jdbc-1.13\src\main\java\org\apache\flink\connector\jdbc\dialect\SQLServerDialect.java
+F:\project\dlink-0.6.6\dlink-0.6.6\dlink-connectors\dlink-connector-jdbc-1.13\src\main\java\org\apache\flink\connector\jdbc\internal\converter\ClickHouseRowConverter.java
